@@ -1,3 +1,6 @@
 Hello Master
+<<<<<<< HEAD
 newly added code from other source
 Hi santhosh from local
+=======
+>>>>>>> da1bc5fb87dd7c783cc076a2506e365ba4d5fefe
