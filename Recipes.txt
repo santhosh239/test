@@ -1,6 +1,1 @@
 Hello Master
-<<<<<<< HEAD
-newly added code from other source
-=======
-Hi santhosh from local
->>>>>>> message added
